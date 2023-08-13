@@ -1,8 +1,12 @@
 # geospatial-tracking
 Code for UAI 2023 paper Heteroskedastic Geospatial Tracking with Distributed Camera Networks
 
-This repo is currently a placeholder. 
+The code can be found in my fork of mmtracking, branch named uai:
+https://github.com/colinski/mmtracking/tree/uai
 
-Code and links to the data will be added soon.
+The data can be downloaded from Google Drive:
+https://drive.google.com/drive/folders/1y31ANtnHGBuoEIEYe1KKaqB1BSlfzLtZ?usp=share_link
 
-If you are interested in this project email: csamplawski@cs.umass.edu
+This is an ongoing project. Major changes have been made to the code (in the main branch) and a lot more data has been collected.
+
+Documentation coming soon, in the mean time if you are interested in this project email: csamplawski@cs.umass.edu 
